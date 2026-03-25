@@ -1,0 +1,23 @@
+prevention-checklist.md
+
+Stay Safe Online: A Student’s Security Checklist
+As college students, our lives are mostly digital—from attending lectures to ordering food. Here are 8 actionable tips to protect yourself from cyber threats in India:
+
+1. The UPI Golden Rule (Financial Safety)
+Never enter your UPI PIN to "receive" money. A PIN is only required to send money. If someone sends you a QR code to scan for receiving a payment, it is a 100% scam.
+
+2. Avoid "Free" Public Wi-Fi 
+Public Wi-Fi at railway stations or cafes is often insecure. Avoid accessing your bank accounts or college portals (VTOP/ERP) using public Wi-Fi. Use your mobile data or a trusted VPN instead.
+
+3. Enable Two-Factor Authentication (2FA) 
+Go to your WhatsApp, Instagram, and Gmail settings right now and enable Two-Factor Authentication. Even if someone gets your password, they won't be able to log in without the second code.
+
+4. Be aware of "Job" or "Internship" Scams 
+If you get a WhatsApp message offering a high-paying "Part-time job" for liking YouTube videos or completing small tasks, block it immediately. These are common phishing traps for students.
+
+Report a Cybercrime:
+If you or your friends face any online fraud, harassment, or financial loss, do not panic. Use these official channels immediately:
+
+Helpline Number: Call 1930 (National Cybercrime Helpline)
+
+Official Portal: Report at www.cybercrime.gov.in
