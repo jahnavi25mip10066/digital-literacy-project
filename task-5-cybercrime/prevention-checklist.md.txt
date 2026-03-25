@@ -1,7 +1,7 @@
 prevention-checklist.md
 
 Stay Safe Online: A Student’s Security Checklist
-As college students, our lives are mostly digital—from attending lectures to ordering food. Here are 8 actionable tips to protect yourself from cyber threats in India:
+As college students, our lives are mostly digital—from attending lectures to ordering food. Here are some tips to protect yourself from cyber threats in India:
 
 1. The UPI Golden Rule (Financial Safety)
 Never enter your UPI PIN to "receive" money. A PIN is only required to send money. If someone sends you a QR code to scan for receiving a payment, it is a 100% scam.
